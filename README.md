@@ -8,12 +8,12 @@ This project include a web app where an emergency worker can input a new message
 Bellow are a few screenshots of the web app.
 
 <p align="center">
-  <img src="/app/static/img/screenshot-1-dataset-overview.jpeg" alt="screenshot-1-dataset-overview" style="width:600px; border:1px solid #650"><br>
+  <img src="/app/static/img/screenshot-1-dataset-overview.jpeg" alt="screenshot-1-dataset-overview" style="width:650px; border:1px solid #555"><br>
   <em>Some statistics of the dataset</em>
 </p>
 
 <p align="center">
-  <img src="/app/static/img/screenshot-2-classification-example.jpeg" alt="screenshot-1-dataset-overview" style="width:600px; border:1px solid #650"><br>
+  <img src="/app/static/img/screenshot-2-classification-example.jpeg" alt="screenshot-1-dataset-overview" style="width:650px; border:1px solid #555"><br>
   <em>An example of classifying a disaster response message</em>
 </p>
 
